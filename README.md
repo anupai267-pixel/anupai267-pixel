@@ -1,95 +1,129 @@
-# Hi 👋, I'm K Anuradha Pai
+<!-- ================= HEADER ================= -->
+<div align="center">
 
-<h3 align="center">Frontend Developer • DSA Learner • Tech Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=220&section=header&text=Hi%20There,%20I'm%20Anuradha%20Pai%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20•%20DSA%20Learner%20•%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;DSA+Learner;Python+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;DSA+Learner+%F0%9F%A7%A0;Python+Programmer+%F0%9F%90%8D;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anupai267-pixel&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+<br/>
 
-<hr>
+<img src="https://komarev.com/ghpvc/?username=anupai267-pixel&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-36BCF7?style=for-the-badge" alt="Status" />
 
-<h2>🚀 About Me</h2>
+</div>
 
-<ul>
-  <li>🌱 Currently learning <b>Data Structures & Algorithms</b></li>
-  <li>💻 Interested in <b>Frontend Development</b></li>
-  <li>🐍 Learning and practicing <b>Python</b></li>
-  <li>🔧 Exploring <b>Git & GitHub</b></li>
-  <li>📫 Reach me at <b>anupai267@gmail.com</b></li>
-</ul>
+<br/>
 
-<hr>
+<!-- ================= ABOUT ================= -->
+## 🚀 About Me
 
-<h2>🌐 Connect With Me</h2>
+- 🌱 Currently learning **Data Structures & Algorithms**
+- 💻 Passionate about **Frontend Development**
+- 🐍 Practicing and building projects with **Python**
+- 🔧 Exploring **Git & GitHub** workflows
+- 🎯 Goal: writing clean code and solving problems every single day
+- 📫 Reach me at **anupai267@gmail.com**
 
-<p>
+<br/>
+
+<!-- ================= CONNECT ================= -->
+## 🌐 Connect With Me
+
+<p align="left">
 <a href="https://www.leetcode.com/i7uj4tmsnb" target="_blank">
-<img src="https://skillicons.dev/icons?i=leetcode" height="50" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" alt="LeetCode"/>
 </a>
-
 <a href="https://auth.geeksforgeeks.org/user/anupatp7u" target="_blank">
-<img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="50" alt="GeeksforGeeks"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+<a href="mailto:anupai267@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </p>
 
-<hr>
+<br/>
 
-<h2>🛠️ Languages & Tools</h2>
+<!-- ================= TOOLS ================= -->
+## 🛠️ Languages & Tools
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,html,css" />
 </p>
 
-<hr>
+<br/>
 
-<h2>📊 GitHub Stats</h2>
+<!-- ================= STATS ================= -->
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupai267-pixel&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupai267-pixel&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
-<hr>
+<br/>
 
-<h2>📈 Contribution Graph</h2>
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anupai267-pixel&theme=tokyo-night" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anupai267-pixel&theme=tokyo-night&hide_border=true" width="95%"/>
+</div>
 
-<hr>
+<br/>
 
-<h2>💡 Currently Focusing On</h2>
+<!-- ================= FOCUS ================= -->
+## 💡 Currently Focusing On
 
-<ul>
-  <li>Data Structures & Algorithms</li>
-  <li>Problem Solving</li>
-  <li>Frontend Development</li>
-  <li>Open Source Learning</li>
-</ul>
+<table>
+<tr>
+<td width="50%">
 
-<hr>
+**🧠 Skill Building**
+- Data Structures & Algorithms
+- Problem Solving
+- Frontend Development
+- Open Source Learning
 
-<h2>✨ Fun Fact</h2>
+</td>
+<td width="50%">
 
-<pre>
+**🎯 This Month**
+- Solving DSA problems daily
+- Building small frontend projects
+- Contributing to open source
+- Sharpening Python fundamentals
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ================= FUN FACT ================= -->
+## ✨ Fun Fact
+
+```python
 while True:
     learn()
     code()
     improve()
-</pre>
+```
 
-<h2>⭐ Quote</h2>
+<br/>
 
-<blockquote>
-Consistency beats talent when talent doesn't work hard.
-</blockquote>
+<!-- ================= QUOTE ================= -->
+<div align="center">
 
-<hr>
+### 💭 "Consistency beats talent when talent doesn't work hard."
 
-<p align="center">
-  Thanks for visiting my profile! 🚀
-</p>
+</div>
+
+<br/>
+
+<!-- ================= FOOTER ================= -->
+<div align="center">
+
+⭐️ **Thanks for visiting my profile — feel free to connect and collaborate!** ⭐️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=150&section=footer" width="100%"/>
+
+</div>
