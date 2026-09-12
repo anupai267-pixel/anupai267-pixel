@@ -66,11 +66,11 @@
 
 <!-- ================= GITHUB STATS ================= -->
 
-<h3>📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anupai267-pixel&theme=tokyonight" width="65%" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anupai267-pixel&theme=tokyonight" width="50%" alt="GitHub Stats"/>
 
 </div>
 
@@ -122,7 +122,5 @@
 ⭐️ **Thanks for visiting my profile — feel free to connect and collaborate!** ⭐️
 
 <br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=140&section=footer" width="100%"/>
-
 </div>
