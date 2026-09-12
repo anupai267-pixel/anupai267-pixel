@@ -66,7 +66,7 @@
 
 <!-- ================= GITHUB STATS ================= -->
 
-## 📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
 <div align="center">
 
@@ -75,7 +75,6 @@
 </div>
 
 <br>
-
 <!-- ================= SKILL BUILDING ================= -->
 
 ## 💡 Skill Building
