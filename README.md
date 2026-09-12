@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anupai267-pixel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="65%" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anupai267-pixel&theme=tokyonight" width="65%" alt="GitHub Stats"/>
 
 </div>
 
