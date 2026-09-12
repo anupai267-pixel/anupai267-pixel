@@ -64,6 +64,18 @@
 
 <br>
 
+<!-- ================= GITHUB STATS ================= -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anupai267-pixel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="65%" alt="GitHub Stats"/>
+
+</div>
+
+<br>
+
 <!-- ================= SKILL BUILDING ================= -->
 
 ## 💡 Skill Building
